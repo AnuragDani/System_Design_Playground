@@ -1,0 +1,39 @@
+# Compiled binary executables
+*.exe
+*.out
+*.dll
+*.so
+*.dylib
+
+# Dependency directories
+vendor/
+node_modules/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+.DS_Store
+
+# Environment variables file
+.env
+
+# IDE and editor specific files
+.idea/
+.vscode/
+
+# Compiled Go files
+*.test
+*.prof
+
+# macOS specific files
+*.DS_Store
+
+# Windows thumbnail cache files
+Thumbs.db
+
+# Compiled Java files
+*.class
+
+# Backup files
+*~
